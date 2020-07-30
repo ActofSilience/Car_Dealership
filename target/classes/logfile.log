@@ -1,0 +1,208 @@
+
+INFO  | 2020-07-27 10:33:11 | [main] menus.CustomerMenu (CustomerMenu.java:84) - Program closed
+WARN  | 2020-07-27 10:34:33 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:173) - Exception caught
+WARN  | 2020-07-27 10:35:37 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:173) - Exception caught
+WARN  | 2020-07-27 10:36:13 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:173) - Exception caught
+WARN  | 2020-07-27 10:38:07 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+INFO  | 2020-07-27 10:47:51 | [main] menus.CustomerMenu (CustomerMenu.java:84) - Program closed
+INFO  | 2020-07-27 10:50:03 | [main] menus.Home (Home.java:15) - Program Started
+INFO  | 2020-07-27 10:52:00 | [main] menus.Home (Home.java:15) - Program Started
+INFO  | 2020-07-27 10:52:37 | [main] menus.Home (Home.java:13) - Program Started
+INFO  | 2020-07-27 10:54:40 | [main] menus.Home (Home.java:13) - Program Started
+INFO  | 2020-07-27 10:55:06 | [main] menus.Home (Home.java:13) - Program Started
+INFO  | 2020-07-27 11:52:55 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 11:53:26 | [main] menus.Login (Login.java:29) - Customer logged in successfully
+INFO  | 2020-07-27 11:53:34 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 11:53:41 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:36:24 | [main] menus.Register (Register.java:35) - New user added
+INFO  | 2020-07-27 12:36:24 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:37:48 | [main] menus.Register (Register.java:35) - New user added
+INFO  | 2020-07-27 12:37:48 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:38:15 | [main] menus.Home (Home.java:59) - Program closed
+INFO  | 2020-07-27 12:38:52 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 12:38:52 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:38:55 | [main] menus.Home (Home.java:59) - Program closed
+INFO  | 2020-07-27 12:41:00 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 12:41:00 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:41:20 | [main] menus.Home (Home.java:59) - Program closed
+INFO  | 2020-07-27 12:43:08 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 12:43:08 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:44:49 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 12:44:49 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:46:35 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 12:46:35 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:47:16 | [main] menus.Login (Login.java:29) - Customer logged in successfully
+INFO  | 2020-07-27 12:47:19 | [main] menus.CustomerMenu (CustomerMenu.java:84) - Program closed
+INFO  | 2020-07-27 12:51:45 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 12:51:45 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:51:48 | [main] menus.Home (Home.java:59) - Program closed
+INFO  | 2020-07-27 12:53:15 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 12:53:15 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:54:29 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 12:54:29 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:55:17 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 12:55:17 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:55:32 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 12:55:33 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:56:47 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 12:56:47 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 12:59:09 | [main] menus.CustomerMenu (CustomerMenu.java:63) - Offer added
+INFO  | 2020-07-27 12:59:12 | [main] menus.CustomerMenu (CustomerMenu.java:84) - Program closed
+INFO  | 2020-07-27 13:08:45 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 13:08:45 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 13:09:08 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 13:09:08 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 13:09:39 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 13:09:39 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 13:10:09 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-27 13:10:09 | [main] menus.Home (Home.java:14) - Program Started
+INFO  | 2020-07-27 13:10:11 | [main] menus.Home (Home.java:59) - Program closed
+INFO  | 2020-07-27 14:28:11 | [main] menus.CustomerMenu (CustomerMenu.java:84) - Program closed
+WARN  | 2020-07-27 20:37:17 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:119) - Exception caught
+WARN  | 2020-07-27 20:38:04 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-27 20:58:19 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 20:58:19 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:05:15 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:05:15 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:06:53 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:06:54 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:11:33 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:11:33 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:13:53 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:13:53 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:17:00 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:17:00 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:17:17 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:17:18 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:20:02 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:20:02 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:23:44 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:23:44 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:25:21 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:25:21 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:32:31 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:32:31 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:33:06 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:33:06 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:33:47 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+WARN  | 2020-07-27 21:33:48 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:168) - Exception caught
+INFO  | 2020-07-27 21:55:18 | [main] menus.Login (Login.java:29) - Customer logged in successfully
+WARN  | 2020-07-27 21:55:18 | [main] menus.CustomerMenu (CustomerMenu.java:88) - Exception caught
+INFO  | 2020-07-27 21:55:24 | [main] menus.CustomerMenu (CustomerMenu.java:84) - Program closed
+INFO  | 2020-07-27 22:26:28 | [main] menus.CustomerMenu (CustomerMenu.java:63) - Offer added
+INFO  | 2020-07-27 22:26:31 | [main] menus.CustomerMenu (CustomerMenu.java:84) - Program closed
+INFO  | 2020-07-27 22:28:37 | [main] menus.CustomerMenu (CustomerMenu.java:63) - Offer added
+INFO  | 2020-07-27 22:28:39 | [main] menus.CustomerMenu (CustomerMenu.java:84) - Program closed
+WARN  | 2020-07-27 22:58:36 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:116) - Exception caught
+WARN  | 2020-07-27 23:03:03 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:117) - Exception caught
+WARN  | 2020-07-27 23:32:21 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:159) - Exception caught
+INFO  | 2020-07-28 09:21:42 | [main] menus.Login (Login.java:29) - Customer logged in successfully
+INFO  | 2020-07-28 09:22:26 | [main] menus.Login (Login.java:29) - Customer logged in successfully
+INFO  | 2020-07-28 09:27:43 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-28 09:28:02 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-28 09:28:27 | [main] menus.EmployeeMenu (EmployeeMenu.java:194) - Program closed
+INFO  | 2020-07-28 09:28:53 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-28 09:29:03 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-28 09:29:10 | [main] menus.Home (Home.java:55) - Employee logged in successfully
+INFO  | 2020-07-28 09:29:23 | [main] menus.EmployeeMenu (EmployeeMenu.java:194) - Program closed
+WARN  | 2020-07-28 10:04:00 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 10:05:10 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 10:06:34 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 10:10:41 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 10:12:14 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 10:12:37 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 10:13:57 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 10:14:29 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 10:15:51 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 10:16:43 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+INFO  | 2020-07-28 10:20:08 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-28 10:20:08 | [main] menus.Home (Home.java:16) - Program Started
+WARN  | 2020-07-28 10:22:51 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 10:24:13 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+INFO  | 2020-07-28 11:36:42 | [main] menus.CustomerMenu (CustomerMenu.java:63) - Offer added
+INFO  | 2020-07-28 11:36:53 | [main] menus.CustomerMenu (CustomerMenu.java:63) - Offer added
+INFO  | 2020-07-28 11:37:02 | [main] menus.CustomerMenu (CustomerMenu.java:63) - Offer added
+INFO  | 2020-07-28 11:37:04 | [main] menus.CustomerMenu (CustomerMenu.java:84) - Program closed
+INFO  | 2020-07-28 11:43:04 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-28 11:43:04 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-28 11:43:28 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-28 11:43:28 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-28 11:44:26 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-28 11:44:26 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-28 11:46:21 | [main] menus.CustomerMenu (CustomerMenu.java:84) - Program closed
+WARN  | 2020-07-28 11:47:17 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 12:07:59 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:91) - Exception caught
+WARN  | 2020-07-28 13:02:01 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:92) - Exception caught
+INFO  | 2020-07-28 13:02:01 | [main] menus.CustomerMenu (CustomerMenu.java:66) - Offer added
+INFO  | 2020-07-28 13:04:26 | [main] menus.CustomerMenu (CustomerMenu.java:66) - Offer added
+INFO  | 2020-07-28 13:04:28 | [main] menus.CustomerMenu (CustomerMenu.java:98) - Program closed
+INFO  | 2020-07-28 13:58:40 | [main] menus.CustomerMenu (CustomerMenu.java:69) - Offer added
+INFO  | 2020-07-28 13:58:42 | [main] menus.CustomerMenu (CustomerMenu.java:101) - Program closed
+INFO  | 2020-07-28 14:00:31 | [main] menus.CustomerMenu (CustomerMenu.java:69) - Offer added
+INFO  | 2020-07-28 14:02:01 | [main] menus.CustomerMenu (CustomerMenu.java:69) - Offer added
+WARN  | 2020-07-28 14:08:56 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:25:58 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:27:09 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:29:09 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:29:31 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:37:45 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:39:56 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:40:39 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:49:35 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:49:58 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:52:22 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:53:04 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:53:32 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:54:54 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 14:59:57 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:00:47 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:01:46 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:02:53 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:04:43 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:05:14 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:06:47 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:07:47 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:08:41 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:09:31 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:10:18 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:11:36 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+WARN  | 2020-07-28 15:16:15 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:93) - Exception caught
+INFO  | 2020-07-28 15:17:44 | [main] menus.CustomerMenu (CustomerMenu.java:68) - Offer added
+WARN  | 2020-07-28 15:24:03 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:94) - Exception caught
+WARN  | 2020-07-28 15:24:48 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:94) - Exception caught
+WARN  | 2020-07-28 15:26:06 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:94) - Exception caught
+WARN  | 2020-07-28 15:26:30 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:94) - Exception caught
+INFO  | 2020-07-28 15:27:39 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-28 15:27:39 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-28 15:28:12 | [main] menus.Register (Register.java:34) - New user added
+INFO  | 2020-07-28 15:28:12 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-28 15:28:59 | [main] menus.CustomerMenu (CustomerMenu.java:68) - Offer added
+INFO  | 2020-07-28 19:05:07 | [main] menus.CustomerMenu (CustomerMenu.java:68) - Offer added
+INFO  | 2020-07-28 19:05:24 | [main] menus.CustomerMenu (CustomerMenu.java:68) - Offer added
+INFO  | 2020-07-28 19:05:35 | [main] menus.CustomerMenu (CustomerMenu.java:68) - Offer added
+INFO  | 2020-07-28 19:05:59 | [main] menus.CustomerMenu (CustomerMenu.java:68) - Offer added
+WARN  | 2020-07-28 23:38:23 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:94) - Exception caught
+WARN  | 2020-07-28 23:39:28 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:94) - Exception caught
+WARN  | 2020-07-29 08:56:28 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:94) - Exception caught
+INFO  | 2020-07-29 09:07:30 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-29 09:08:06 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-29 09:08:10 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-29 09:46:17 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-29 09:46:30 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-29 09:46:46 | [main] menus.EmployeeMenu (EmployeeMenu.java:214) - Program closed
+INFO  | 2020-07-29 09:50:00 | [main] menus.Home (Home.java:16) - Program Started
+WARN  | 2020-07-29 10:02:18 | [main] dao.OfferDAOImpl (OfferDAOImpl.java:94) - Exception caught
+INFO  | 2020-07-29 10:02:18 | [main] menus.CustomerMenu (CustomerMenu.java:66) - Offer added
+INFO  | 2020-07-29 10:03:17 | [main] menus.CustomerMenu (CustomerMenu.java:66) - Offer added
+INFO  | 2020-07-29 10:03:25 | [main] menus.CustomerMenu (CustomerMenu.java:97) - Program closed
+INFO  | 2020-07-29 10:59:23 | [main] menus.CustomerMenu (CustomerMenu.java:97) - Program closed
+INFO  | 2020-07-29 11:34:50 | [main] menus.CustomerMenu (CustomerMenu.java:97) - Program closed
+INFO  | 2020-07-29 12:04:52 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-29 12:05:03 | [main] menus.Register (Register.java:31) - New user added
+INFO  | 2020-07-29 12:05:03 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-29 12:05:19 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-29 12:05:28 | [main] menus.Login (Login.java:28) - Customer logged in successfully
+INFO  | 2020-07-29 12:06:02 | [main] menus.CustomerMenu (CustomerMenu.java:66) - Offer added
+INFO  | 2020-07-29 12:06:15 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-29 12:06:22 | [main] menus.Home (Home.java:16) - Program Started
+INFO  | 2020-07-29 12:06:44 | [main] menus.Home (Home.java:16) - Program Started
